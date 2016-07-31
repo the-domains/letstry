@@ -1,0 +1,14 @@
+layout_spectrum: 0.7288871391210705
+typography_spectrum: 0.8142678313888609
+color:
+  brandStrength: 0.21386358374729753
+  lightness: 0.9742936671245843
+  saturation: 0.48842268506996334
+  rhythmicContrast: 0.45501886843703687
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: letstry
